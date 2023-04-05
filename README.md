@@ -1,6 +1,6 @@
 # ROMBot-AI
 
-![ROMBot-AI](https://github.com/leo-komis/ROMBot-AI/raw/dev/AdobeStock_AI_Python.jpeg)
+![ROMBot-AI](https://github.com/leo-komis/ROMBot-AI/raw/dev/assets/AdobeStock_AI_Python.jpeg)
 
 ## Introduction
 
