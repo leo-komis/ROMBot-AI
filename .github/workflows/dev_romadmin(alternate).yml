@@ -5,9 +5,9 @@
 name: Build and deploy Python app to Azure Web App - romadmin
 
 on:
-  push:
-    branches:
-      - dev
+  release:
+    types: [published]
+    
   workflow_dispatch:
 
 jobs:
