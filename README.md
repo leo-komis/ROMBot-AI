@@ -1,5 +1,7 @@
 # ROMBot-AI
 
+[![Build and deploy Python app to Azure Web App - romadmin](https://github.com/leo-komis/ROMBot-AI/actions/workflows/dev_romadmin(alternate).yml/badge.svg?branch=dev&event=deployment)](https://github.com/leo-komis/ROMBot-AI/actions/workflows/dev_romadmin(alternate).yml)
+
 ![ROMBot-AI](https://github.com/leo-komis/ROMBot-AI/raw/dev/assets/AdobeStock_AI_Python.jpeg)
 
 ## Introduction
