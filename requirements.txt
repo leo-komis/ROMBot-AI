@@ -69,7 +69,7 @@ spacy==3.5.1
 spacy-legacy==3.0.12
 spacy-loggers==1.0.4
 srsly==2.4.6
-starlette==0.26.1
+starlette==0.27.0
 thinc==8.1.9
 toolz==0.12.0
 tqdm==4.65.0
